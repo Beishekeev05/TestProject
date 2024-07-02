@@ -1,7 +1,9 @@
 import { FC } from "react";
 
 const App: FC = () => {
-	return <div>App</div>;
+	return <div>
+    <h1>hello world</h1>
+  </div>;
 };
 
 export default App;
